@@ -2,3 +2,6 @@ main.c
 main.s
 c
 4-puts
+size32
+size64
+6-size
